@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "dados"
+  "defaultProject": "dados",
+  "cli": {
+    "analytics": "83aeb399-f5bc-49c1-89f8-af4c97541172"
+  }
 }
